@@ -1,6 +1,4 @@
 name: Backend CD
-  #nores
-on:
   push:
     branches:
       - main
